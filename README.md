@@ -1,0 +1,1 @@
+This program counts correlation ratio and MSE for training, validation and test set. Data comes from external files generating by JavaNNS (Neural Network Simulator). In this project Artifical Neuron Network was designed for approximate function of multiple variables.
